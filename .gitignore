@@ -1,6 +1,7 @@
 #my ignore
 .idea
-.build
+build
+row
 
 #python ignore
 #
