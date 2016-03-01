@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   会计
+   sourse
 
 Indices and tables
 ==================
