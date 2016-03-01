@@ -1,4 +1,4 @@
-.. accounting documentation master file, created by
+﻿.. accounting documentation master file, created by
    sphinx-quickstart on Tue Mar  1 10:31:59 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -11,10 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   总论
-   基础
-   企业合并
-   特殊事项
+   A(1)
+   A(2)
+   A(3)
+   A(4)
 
 Indices and tables
 ==================
